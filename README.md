@@ -8,7 +8,7 @@ Uygulamamızla ilgili yasal metinlere ve destek sayfalarına aşağıdaki bağla
 
 * 📋 **[Kullanım Koşulları](KULLANIM_KOSULLARI.html)**
 * 🔒 **[Gizlilik Politikası](GIZLILIK_POLITIKASI.html)**
-* 📞 **[Destek ve İletişim](DESTEK.html)**
+* 📞 **[Destek ve İletişim](destek.html)**
 
 ---
 
