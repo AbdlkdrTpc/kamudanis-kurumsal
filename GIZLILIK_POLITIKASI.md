@@ -1,346 +1,541 @@
-# KamuDanış Gizlilik Politikası
+# 🔒 KamuDanış Gizlilik Politikası
 
-**Son Güncelleme:** 26 Kasım 2025
+> **Gizliliğiniz bizim için önceliklidir.** Bu belge, verilerinizin nasıl toplandığını, kullanıldığını ve korunduğunu açıklar.
 
----
-
-## 1. Giriş
-
-KamuDanış ("Uygulama", "biz", "bizim") olarak, kullanıcılarımızın gizliliğine saygı duyuyor ve kişisel verilerinizi korumayı taahhüt ediyoruz. Bu Gizlilik Politikası, hangi bilgileri topladığımızı, nasıl kullandığımızı ve haklarınızı açıklamaktadır.
-
-KamuDanış, kamu ihale mevzuatı alanında çalışan profesyoneller için geliştirilmiş bir soru-cevap platformudur. Uygulama, kamu kurumlarında görev yapan kullanıcıların mesleki deneyimlerini paylaşmalarını ve birbirlerinden öğrenmelerini sağlar.
+**Son Güncelleme:** 3 Aralık 2025
+**Versiyon:** 2.0
 
 ---
 
-## 2. Toplanan Veriler
+## 📋 Hızlı Özet
 
-### 2.1 Kullanıcı Tarafından Sağlanan Bilgiler
-
-Uygulamamıza kayıt olurken ve kullanırken aşağıdaki bilgileri toplayabiliriz:
-
-| Veri Türü | Açıklama | Zorunlu |
-|-----------|----------|---------|
-| **Ad ve Soyad** | Profil oluşturmak ve toplulukta görünmek için | Evet |
-| **E-posta Adresi** | Hesap doğrulama ve iletişim için (kurumsal e-posta önerilir) | Evet |
-| **Kurum Türü** | Belediye, bakanlık, üniversite vb. | Evet |
-| **Kurum Adı** | Çalıştığınız kamu kurumunun adı | Evet |
-| **Birim** | Çalıştığınız departman/birim | Evet |
-| **Unvan** | Mesleki unvanınız | Evet |
-| **Şehir** | Görev yaptığınız şehir | Evet |
-
-### 2.2 Apple ile Giriş Yap
-
-Uygulamamız yalnızca "Apple ile Giriş Yap" özelliğini desteklemektedir. Bu yöntemle:
-- Apple Kimliğinize bağlı ad ve e-posta bilgileriniz (izin verirseniz) alınır
-- Apple'ın gizlilik korumalı "Hide My Email" özelliğini kullanabilirsiniz
-- Şifreniz hiçbir zaman bizimle paylaşılmaz
-
-### 2.3 Otomatik Olarak Toplanan Bilgiler
-
-- **Cihaz Bilgileri:** Cihaz modeli, iOS sürümü
-- **Uygulama Kullanım Verileri:** Soru sayısı, cevap sayısı, beğeni sayısı (karma puanı hesaplaması için)
-- **Zaman Damgaları:** Kayıt tarihi, son aktivite tarihi
-
-### 2.4 Kullanıcı Tarafından Oluşturulan İçerik
-
-- Sorular (konu, içerik, ihale türü, ihale usulü, etiketler)
-- Cevaplar
-- Beğeniler
-- Anonim olarak paylaşılan içerikler (tercih edilirse)
+| | |
+|---|---|
+| 🔐 **Şifreleme** | Apple iCloud uçtan uca şifreleme |
+| ❌ **Reklam** | Hiçbir reklam yok, verilerinizi satmıyoruz |
+| ✅ **Kontrol** | Verilerinizi istediğiniz zaman silebilirsiniz |
+| 🇹🇷 **Uyum** | KVKK ve GDPR uyumlu |
+| 📧 **İletişim** | kdrtpc@icloud.com |
 
 ---
 
-## 3. Verilerin Kullanım Amaçları
+## 1️⃣ Giriş
 
-Topladığımız verileri aşağıdaki amaçlarla kullanırız:
+### 🎯 Uygulama Amacı
 
-| Amaç | Açıklama |
-|------|----------|
-| **Hesap Yönetimi** | Kullanıcı hesaplarının oluşturulması, doğrulanması ve yönetilmesi |
-| **Hizmet Sağlama** | Soru-cevap platformunun işletilmesi ve içeriklerin görüntülenmesi |
-| **Topluluk Moderasyonu** | Soruların onaylanması, uygunsuz içeriklerin kaldırılması |
-| **Karma Sistemi** | Kullanıcı katkılarının puanlanması ve seviyelerin belirlenmesi |
-| **Güvenlik** | Spam önleme, kötüye kullanımın engellenmesi, kara liste yönetimi |
-| **İyileştirme** | Uygulama deneyiminin geliştirilmesi |
+KamuDanış, **kamu ihale mevzuatı** alanında çalışan profesyonellerin bilgi ve deneyim paylaşabileceği güvenli bir platformdur.
 
-**Önemli:** Verilerinizi reklam, pazarlama veya profilleme amacıyla **kullanmıyoruz**.
+### 👤 Geliştirici
 
----
-
-## 4. Veri Saklama ve Güvenlik
-
-### 4.1 Veri Saklama Altyapısı
-
-- Tüm veriler **Apple iCloud (CloudKit)** altyapısında saklanmaktadır
-- Apple'ın kurumsal düzeyde güvenlik standartları ve şifreleme protokolleri uygulanmaktadır
-- Veriler Apple'ın küresel veri merkezlerinde (Türkiye, Avrupa veya ABD) tutulabilir
-
-### 4.2 Güvenlik Önlemleri
-
-| Önlem | Açıklama |
-|-------|----------|
-| **Kimlik Doğrulama** | Apple ile Giriş Yap (iki faktörlü doğrulama destekli) |
-| **Veri Şifreleme** | iCloud'un uçtan uca şifreleme protokolleri |
-| **Hassas Veri Koruması** | Keychain kullanarak güvenli yerel depolama |
-| **Rate Limiting** | Spam ve kötüye kullanımı önleyen limit sistemi |
-| **Admin Yetkilendirme** | Yönetici işlemleri için ek güvenlik kontrolleri |
-| **Otomatik Engelleme** | Kural ihlallerinde otomatik kara liste sistemi |
-
-### 4.3 Veri Saklama Süresi
-
-- **Aktif Hesaplar:** Üyeliğiniz devam ettiği sürece
-- **Silinen Hesaplar:** Hesap silme talebinden sonra 30 gün içinde kalıcı olarak silinir
-- **Yasal Gereklilikler:** Yasal saklama süreleri gerektirdiği durumlarda ilgili süre kadar
-
----
-
-## 5. Veri Paylaşımı
-
-Kişisel verilerinizi aşağıdaki durumlar dışında üçüncü taraflarla **paylaşmayız**:
-
-| Durum | Açıklama |
-|-------|----------|
-| **Apple Inc.** | iCloud/CloudKit veri depolama hizmetleri |
-| **Yasal Zorunluluk** | Mahkeme kararı veya yasal düzenleme gerektirdiğinde |
-| **Açık Onay** | Sizin açık onayınız olduğunda |
-
-### Kesinlikle Yapmadıklarımız
-
-- ❌ Verilerinizi satmıyoruz
-- ❌ Reklam şirketleriyle paylaşmıyoruz
-- ❌ Üçüncü taraf analitik araçları kullanmıyoruz
-- ❌ Profilleme veya otomatik karar verme yapmıyoruz
-
----
-
-## 6. Uygulama İçi Görünürlük
-
-### 6.1 Diğer Kullanıcıların Görebileceği Bilgiler
-
-- Ad ve soyadınız
-- Unvanınız
-- Kurum türü ve adı
-- Karma seviyeniz
-- Paylaştığınız sorular ve cevaplar
-
-### 6.2 Anonim Paylaşım
-
-Soru sorarken "Anonim olarak paylaş" seçeneğini işaretleyebilirsiniz. Bu durumda:
-- Adınız yerine "Anonim" görünür
-- Kurum bilginiz gizlenir
-- Sadece yöneticiler gerçek kimliğinizi görebilir
-
----
-
-## 7. Kullanıcı Hakları
-
-### 7.1 KVKK Kapsamındaki Haklarınız
-
-6698 sayılı Kişisel Verilerin Korunması Kanunu kapsamında aşağıdaki haklara sahipsiniz:
-
-1. **Bilgi Edinme:** Kişisel verilerinizin işlenip işlenmediğini öğrenme
-2. **Erişim:** İşlenen kişisel verilerinize erişim talep etme
-3. **Düzeltme:** Eksik veya yanlış verilerin düzeltilmesini isteme
-4. **Silme:** Kişisel verilerinizin silinmesini talep etme
-5. **Aktarım Bilgisi:** Verilerinizin aktarıldığı üçüncü kişileri öğrenme
-6. **İtiraz:** Otomatik sistemlerle analiz sonucu aleyhinize bir sonuç çıkmasına itiraz etme
-7. **Tazminat:** Kanuna aykırı işleme nedeniyle uğradığınız zararın giderilmesini talep etme
-
-### 7.2 Haklarınızı Nasıl Kullanabilirsiniz?
-
-| Yöntem | Bilgi |
-|--------|-------|
+| | |
+|---|---|
+| **Ad Soyad** | Abdulkadir TOPCU |
+| **Konum** | Pendik/İstanbul, Türkiye |
 | **E-posta** | kdrtpc@icloud.com |
-| **Yanıt Süresi** | En geç 30 gün içinde |
-| **Uygulama İçi** | Profilim > Ayarlar > Hesabımı Sil |
+| **Web** | [kamudanis.com](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
+
+### ⚖️ Yasal Uyum
+
+Bu politika aşağıdaki düzenlemelere uygun olarak hazırlanmıştır:
+- 🇹🇷 6698 sayılı Kişisel Verilerin Korunması Kanunu (KVKK)
+- 🇪🇺 Genel Veri Koruma Yönetmeliği (GDPR)
+- 🍎 Apple App Store Gizlilik Gereksinimleri
 
 ---
 
-## 8. Çerezler ve İzleme Teknolojileri
+## 2️⃣ Toplanan Veriler
 
-KamuDanış uygulaması:
+### 📝 Kayıt Sırasında Toplanan Bilgiler
 
-- ✅ **Çerez kullanmaz** (mobil uygulama)
-- ✅ **Reklam izleyicisi kullanmaz**
-- ✅ **Üçüncü taraf analitik araçları kullanmaz**
-- ✅ **App Tracking Transparency:** Sizi izlemez veya izleme izni istemez
+<table>
+<thead>
+<tr>
+<th>Veri Türü</th>
+<th>Örnek</th>
+<th>Zorunlu</th>
+<th>Amaç</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>👤 <strong>Ad ve Soyad</strong></td>
+<td>Ahmet Yılmaz</td>
+<td>✅ Evet</td>
+<td>Profil oluşturma, toplulukta görünme</td>
+</tr>
+<tr>
+<td>📧 <strong>E-posta</strong></td>
+<td>ahmet@belediye.gov.tr</td>
+<td>✅ Evet</td>
+<td>Hesap doğrulama, iletişim</td>
+</tr>
+<tr>
+<td>🏛️ <strong>Kurum Türü</strong></td>
+<td>Belediye, Bakanlık, vb.</td>
+<td>✅ Evet</td>
+<td>Topluluk oluşturma</td>
+</tr>
+<tr>
+<td>🏢 <strong>Kurum Adı</strong></td>
+<td>Pendik Belediyesi</td>
+<td>✅ Evet</td>
+<td>Doğrulama, profil</td>
+</tr>
+<tr>
+<td>📂 <strong>Birim</strong></td>
+<td>İhale Müdürlüğü</td>
+<td>✅ Evet</td>
+<td>Uzmanlık alanı belirleme</td>
+</tr>
+<tr>
+<td>💼 <strong>Unvan</strong></td>
+<td>İhale Uzmanı</td>
+<td>✅ Evet</td>
+<td>Güvenilirlik gösterimi</td>
+</tr>
+<tr>
+<td>📍 <strong>Şehir</strong></td>
+<td>İstanbul</td>
+<td>✅ Evet</td>
+<td>Yerel içerik sağlama</td>
+</tr>
+</tbody>
+</table>
+
+### 🍎 Apple ile Giriş Yap
+
+KamuDanış, **sadece Apple kimlik doğrulaması** kullanır:
+
+| Özellik | Açıklama |
+|---------|----------|
+| ✅ **Güvenli** | Şifreniz bizimle paylaşılmaz |
+| 🔐 **Gizli E-posta** | "Hide My Email" özelliğini kullanabilirsiniz |
+| 🎭 **İki Faktörlü** | Apple'ın 2FA koruması |
+| 🚫 **Sosyal Medya Yok** | Facebook, Google, Twitter entegrasyonu yok |
+
+### 📊 Otomatik Toplanan Bilgiler
+
+| Kategori | Detay |
+|----------|-------|
+| 📱 **Cihaz** | Model, iOS sürümü |
+| 📈 **Kullanım** | Soru sayısı, cevap sayısı, beğeni sayısı |
+| ⏰ **Zaman** | Kayıt tarihi, son aktivite |
+| 🌐 **Ağ** | IP adresi (güvenlik için geçici) |
+
+⚠️ **Önemli:** Konum, rehber, fotoğraf veya mikrofon erişimi **talep etmiyoruz**.
+
+### ✍️ Kullanıcı İçerikleri
+
+- 💬 Sorular (başlık, içerik, etiketler)
+- 💭 Cevaplar
+- 👍 Beğeniler
+- 📝 Anonim içerikler
 
 ---
 
-## 9. Yaş Sınırlaması
+## 3️⃣ Verilerin Kullanım Amaçları
 
-- Uygulamamız **18 yaş ve üzeri** bireyler için tasarlanmıştır
-- Kamu kurumlarında çalışan profesyonellere yöneliktir
-- 18 yaş altındaki bireylerden bilerek veri toplamıyoruz
-- 18 yaş altı bir kullanıcı tespit edilirse hesap derhal kapatılır
+### ✅ Ne İçin Kullanıyoruz?
+
+<table>
+<thead>
+<tr>
+<th>Amaç</th>
+<th>Detay</th>
+<th>Yasal Dayanak</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🔑 <strong>Hesap Yönetimi</strong></td>
+<td>Kullanıcı hesaplarının oluşturulması ve doğrulanması</td>
+<td>Sözleşme</td>
+</tr>
+<tr>
+<td>🎯 <strong>Hizmet Sağlama</strong></td>
+<td>Soru-cevap platformunun işletilmesi</td>
+<td>Sözleşme</td>
+</tr>
+<tr>
+<td>👮 <strong>Moderasyon</strong></td>
+<td>İçeriklerin onaylanması, uygunsuz içeriklerin kaldırılması</td>
+<td>Meşru menfaat</td>
+</tr>
+<tr>
+<td>⭐ <strong>Karma Sistemi</strong></td>
+<td>Katkıların puanlanması ve seviyelerin belirlenmesi</td>
+<td>Sözleşme</td>
+</tr>
+<tr>
+<td>🛡️ <strong>Güvenlik</strong></td>
+<td>Spam önleme, kötüye kullanım engelleme</td>
+<td>Meşru menfaat</td>
+</tr>
+<tr>
+<td>📈 <strong>İyileştirme</strong></td>
+<td>Uygulama deneyiminin geliştirilmesi</td>
+<td>Meşru menfaat</td>
+</tr>
+</tbody>
+</table>
+
+### ❌ Ne İçin KULLANMIYORUZ?
+
+- 🚫 Reklam gösterimi
+- 🚫 Pazarlama e-postaları
+- 🚫 Profilleme ve davranış analizi
+- 🚫 Üçüncü taraf paylaşımları
+- 🚫 Veri satışı
 
 ---
 
-## 10. Uluslararası Veri Aktarımı
+## 4️⃣ Veri Saklama ve Güvenlik
 
-Apple iCloud altyapısı kullandığımız için verileriniz:
-- Türkiye
-- Avrupa Birliği ülkeleri
-- Amerika Birleşik Devletleri
+### ☁️ Altyapı
 
-veri merkezlerinde saklanabilir. Apple, GDPR ve uluslararası veri koruma standartlarına uygun şekilde veri işlemektedir.
+| | |
+|---|---|
+| 🏢 **Platform** | Apple iCloud (CloudKit) |
+| 🔐 **Şifreleme** | Uçtan uca şifreleme |
+| 🌍 **Lokasyon** | Türkiye, AB veya ABD veri merkezleri |
+| 🏆 **Standart** | ISO 27001 uyumlu |
+
+### 🛡️ Güvenlik Önlemleri
+
+| Katman | Koruma |
+|--------|--------|
+| 1️⃣ **Kimlik Doğrulama** | Apple Sign In + 2FA |
+| 2️⃣ **Veri Şifreleme** | AES-256 şifreleme |
+| 3️⃣ **İletişim** | HTTPS/TLS protokolü |
+| 4️⃣ **Rate Limiting** | Spam ve DDoS koruması |
+| 5️⃣ **Admin Kontrolü** | İki faktörlü admin yetkilendirme |
+| 6️⃣ **Kara Liste** | Otomatik engelleme sistemi |
+
+### ⏱️ Saklama Süreleri
+
+| Veri Türü | Süre |
+|-----------|------|
+| ✅ **Aktif Hesap** | Üyelik devam ettiği sürece |
+| 🗑️ **Silinen Hesap** | 30 gün içinde kalıcı silme |
+| ⚖️ **Yasal Kayıtlar** | Mevzuatın gerektirdiği süre |
+| 📝 **Log Kayıtları** | 90 gün |
 
 ---
 
-## 11. Politika Değişiklikleri
+## 5️⃣ Veri Paylaşımı
 
-Bu Gizlilik Politikası'nı zaman zaman güncelleyebiliriz. Değişiklik olduğunda:
+### 🤝 Kiminle Paylaşıyoruz?
 
-- Uygulama içi bildirim göndereceğiz
-- Bu sayfadaki "Son Güncelleme" tarihini değiştireceğiz
-- Önemli değişikliklerde açık onayınızı isteyebiliriz
+<table>
+<thead>
+<tr>
+<th>Taraf</th>
+<th>Amaç</th>
+<th>Yasal Dayanak</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🍎 <strong>Apple Inc.</strong></td>
+<td>iCloud/CloudKit veri depolama</td>
+<td>Sözleşme</td>
+</tr>
+<tr>
+<td>⚖️ <strong>Yetkili Makamlar</strong></td>
+<td>Yasal zorunluluk (mahkeme kararı)</td>
+<td>Yasal yükümlülük</td>
+</tr>
+<tr>
+<td>✅ <strong>Sizin Onayınız</strong></td>
+<td>Açık rızanız varsa</td>
+<td>Açık rıza</td>
+</tr>
+</tbody>
+</table>
 
-Uygulamayı kullanmaya devam etmeniz, güncellenmiş politikayı kabul ettiğiniz anlamına gelir.
+### ❌ Kesinlikle Yapmadıklarımız
+
+```
+❌ Verilerinizi satmıyoruz
+❌ Reklam şirketleriyle paylaşmıyoruz
+❌ Google Analytics, Facebook Pixel gibi araçlar KULLANMIYORUZ
+❌ Otomatik profilleme yapmıyoruz
+❌ Üçüncü taraf SDK'ları entegre etmiyoruz
+```
 
 ---
 
-## 12. İletişim
+## 6️⃣ Uygulama İçi Görünürlük
 
-Gizlilik ile ilgili sorularınız, talepleriniz veya şikayetleriniz için:
+### 👁️ Diğer Kullanıcıların Görebildikleri
+
+- ✅ Ad ve soyadınız
+- ✅ Unvanınız
+- ✅ Kurum türü ve adı
+- ✅ Karma seviyeniz ve emojisi
+- ✅ Paylaştığınız sorular ve cevaplar
+
+### 🔒 Gizli Kalan Bilgiler
+
+- 🔒 E-posta adresiniz
+- 🔒 Tam kurum adı (sadece yöneticiler görür)
+- 🔒 Apple User ID'niz
+- 🔒 Cihaz bilgileriniz
+
+### 🎭 Anonim Paylaşım
+
+Soru sorarken "**Anonim olarak paylaş**" seçeneğini işaretlerseniz:
+
+| Ne Gizlenir | Ne Görünür |
+|-------------|------------|
+| ✅ Adınız | ❌ "Anonim" |
+| ✅ Kurum bilginiz | ❌ Gizli |
+| ✅ Unvanınız | ❌ Belirtilmez |
+
+⚠️ **Not:** Adminler moderasyon için gerçek kimliğinizi görebilir.
+
+---
+
+## 7️⃣ Kullanıcı Hakları (KVKK)
+
+### 📜 Haklarınız
+
+6698 sayılı **Kişisel Verilerin Korunması Kanunu** kapsamında aşağıdaki haklara sahipsiniz:
+
+<table>
+<thead>
+<tr>
+<th>Hak</th>
+<th>Açıklama</th>
+<th>Nasıl Kullanılır?</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1️⃣ <strong>Bilgi Edinme</strong></td>
+<td>Verilerinizin işlenip işlenmediğini öğrenme</td>
+<td>E-posta ile başvuru</td>
+</tr>
+<tr>
+<td>2️⃣ <strong>Erişim</strong></td>
+<td>İşlenen verilerinize erişim talep etme</td>
+<td>Profil > Ayarlar veya e-posta</td>
+</tr>
+<tr>
+<td>3️⃣ <strong>Düzeltme</strong></td>
+<td>Yanlış verilerin düzeltilmesini isteme</td>
+<td>Profil > Düzenle</td>
+</tr>
+<tr>
+<td>4️⃣ <strong>Silme</strong></td>
+<td>Verilerinizin silinmesini talep etme</td>
+<td>Profil > Ayarlar > Hesabımı Sil</td>
+</tr>
+<tr>
+<td>5️⃣ <strong>Aktarım Bilgisi</strong></td>
+<td>Verilerin aktarıldığı kişileri öğrenme</td>
+<td>E-posta ile başvuru</td>
+</tr>
+<tr>
+<td>6️⃣ <strong>İtiraz</strong></td>
+<td>Otomatik sistemlere itiraz etme</td>
+<td>E-posta ile itiraz</td>
+</tr>
+<tr>
+<td>7️⃣ <strong>Tazminat</strong></td>
+<td>Kanuna aykırı işlemden zarar görürseniz tazminat</td>
+<td>Yasal başvuru</td>
+</tr>
+</tbody>
+</table>
+
+### ✉️ Haklarınızı Nasıl Kullanabilirsiniz?
+
+**E-posta:** kdrtpc@icloud.com
+
+**Başvuru İçeriği:**
+```
+Konu: KVKK Veri Sahibi Başvurusu
+
+- Ad Soyad:
+- Başvuru Konusu: (Silme/Erişim/Düzeltme)
+- Detaylar:
+- İletişim Bilgisi:
+```
+
+**Yanıt Süresi:** En geç **30 gün** içinde
+
+---
+
+## 8️⃣ Çerezler ve İzleme
+
+### 🍪 Çerez Kullanımı
+
+KamuDanış mobil uygulaması olduğundan **çerez kullanmaz**.
+
+### 📊 Analitik Araçlar
+
+```
+✅ Çerez yok
+✅ Google Analytics yok
+✅ Facebook Pixel yok
+✅ Üçüncü taraf izleyici yok
+✅ Reklam ağı yok
+```
+
+### 🔍 App Tracking Transparency
+
+Apple'ın **App Tracking Transparency** politikası gereği:
+- Sizi **izleme izni talep etmiyoruz**
+- Cihazınızın **IDFA** bilgisini toplamıyoruz
+
+---
+
+## 9️⃣ Yaş Sınırlaması
+
+### 🔞 18+ Uygulaması
+
+| | |
+|---|---|
+| ✅ **Hedef Kitle** | 18 yaş ve üzeri kamu çalışanları |
+| ❌ **Çocuklar** | 18 yaş altına yönelik değil |
+| 🚫 **Tespit Edilirse** | Hesap derhal kapatılır |
+
+⚠️ 18 yaş altı kullanıcı tespit edilirse hesap **kalıcı olarak silinir**.
+
+---
+
+## 🔟 Uluslararası Veri Aktarımı
+
+### 🌍 Apple iCloud Altyapısı
+
+Verileriniz Apple'ın aşağıdaki bölgelerdeki veri merkezlerinde saklanabilir:
+
+| Bölge | Standart |
+|-------|----------|
+| 🇹🇷 Türkiye | KVKK uyumlu |
+| 🇪🇺 Avrupa Birliği | GDPR uyumlu |
+| 🇺🇸 Amerika | Privacy Shield uyumlu |
+
+### 🔐 Koruma Önlemleri
+
+Apple, uluslararası veri aktarımında:
+- ✅ AB Standart Sözleşme Hükümleri kullanır
+- ✅ GDPR ve KVKK gereksinimlerini karşılar
+- ✅ Veri şifreleme uygular
+
+---
+
+## 1️⃣1️⃣ Politika Değişiklikleri
+
+### 📣 Sizi Nasıl Bilgilendiririz?
+
+Gizlilik Politikası güncellendiğinde:
+
+1. 📱 **Uygulama İçi Bildirim** gönderilir
+2. 📧 **E-posta** ile haberdar edilirsiniz
+3. 🗓️ **Son Güncelleme** tarihi değiştirilir
+4. ✅ **Önemli değişiklikler** için onayınız alınır
+
+⚠️ Uygulamayı kullanmaya devam ederseniz yeni politikayı kabul etmiş sayılırsınız.
+
+---
+
+## 1️⃣2️⃣ İletişim
+
+### 📞 Bizimle İletişime Geçin
+
+Gizlilik ile ilgili her türlü soru, talep veya şikayetiniz için:
 
 | | |
 |---|---|
 | **Geliştirici** | Abdulkadir TOPCU |
-| **E-posta** | kdrtpc@icloud.com |
-| **Konum** | Pendik/İstanbul, Türkiye |
-| **Web** | https://AbdlkdrTpc.github.io/kamudanis-kurumsal/ |
+| 📧 **E-posta** | kdrtpc@icloud.com |
+| 🌐 **Web** | [kamudanis.com](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
+| 📍 **Konum** | Pendik/İstanbul, Türkiye |
+| ⏱️ **Yanıt Süresi** | En geç 3 iş günü |
 
 ---
 
-## 13. Onay
+## 1️⃣3️⃣ Onay Beyanı
 
-Bu uygulamayı indirip kullanarak ve hesap oluşturarak:
-- Bu Gizlilik Politikası'nı okuduğunuzu
-- Anladığınızı ve kabul ettiğinizi
+Bu uygulamayı indirip kullanarak:
+
+- ✅ Bu Gizlilik Politikası'nı **okuduğunuzu**
+- ✅ İçeriğini **anladığınızı**
+- ✅ Koşulları **kabul ettiğinizi**
+- ✅ Verilerinizin bu politika kapsamında işlenmesine **rıza gösterdiğinizi**
 
 beyan etmiş olursunuz.
 
 ---
 
----
+## 📎 KVKK Aydınlatma Metni
 
-# KVKK Aydınlatma Metni
+### Veri Sorumlusu
 
-6698 Sayılı Kişisel Verilerin Korunması Kanunu Uyarınca Aydınlatma Metni
-
----
-
-## Veri Sorumlusu
-
-**Abdulkadir TOPCU**  
-Pendik/İstanbul, Türkiye  
+**Abdulkadir TOPCU**
+Pendik/İstanbul, Türkiye
 E-posta: kdrtpc@icloud.com
 
----
+### Kişisel Verilerin Toplanma Yöntemi
 
-## Kişisel Verilerin Toplanma Yöntemi
+Verileriniz aşağıdaki yöntemlerle **elektronik ortamda** toplanmaktadır:
+- Apple ile Giriş Yap özelliği
+- Uygulama içi kayıt formu
+- Otomatik kullanım verileri
 
-Kişisel verileriniz, KamuDanış mobil uygulaması üzerinden aşağıdaki yöntemlerle elektronik ortamda toplanmaktadır:
-
-- Apple ile Giriş Yap özelliği aracılığıyla
-- Uygulama içi kayıt formu aracılığıyla
-- Uygulama kullanımı sırasında otomatik olarak
-
----
-
-## İşlenen Kişisel Veriler
+### İşlenen Kişisel Veriler
 
 | Kategori | Veri Türleri |
 |----------|--------------|
-| **Kimlik Bilgileri** | Ad, soyad |
-| **İletişim Bilgileri** | E-posta adresi |
-| **Mesleki Bilgiler** | Kurum türü, kurum adı, birim, unvan, şehir |
-| **Dijital Kimlik** | Apple User ID |
-| **Kullanım Verileri** | Soru, cevap, beğeni sayıları, karma puanı |
-| **Zaman Bilgileri** | Kayıt tarihi, son aktivite tarihi |
+| **Kimlik** | Ad, soyad |
+| **İletişim** | E-posta adresi |
+| **Mesleki** | Kurum türü, kurum adı, birim, unvan, şehir |
+| **Dijital** | Apple User ID, cihaz bilgileri |
+| **Kullanım** | Soru, cevap, beğeni sayıları, karma puanı |
+| **Zaman** | Kayıt tarihi, son aktivite |
 
----
+### Kişisel Verilerin İşlenme Amaçları
 
-## Kişisel Verilerin İşlenme Amaçları
-
-Kişisel verileriniz aşağıdaki amaçlarla işlenmektedir:
-
-1. Üyelik işlemlerinin gerçekleştirilmesi ve hesap yönetimi
+1. Üyelik işlemlerinin gerçekleştirilmesi
 2. Soru-cevap hizmetinin sunulması
 3. Kullanıcı kimliğinin doğrulanması
-4. Topluluk moderasyonu ve içerik denetimi
-5. Kullanıcı hesap güvenliğinin sağlanması
+4. Topluluk moderasyonu
+5. Hesap güvenliğinin sağlanması
 6. Spam ve kötüye kullanımın önlenmesi
-7. Karma/puan sisteminin işletilmesi
+7. Karma sisteminin işletilmesi
 8. Yasal yükümlülüklerin yerine getirilmesi
 
----
+### Kişisel Verilerin Hukuki Sebebi
 
-## Kişisel Verilerin Hukuki Sebebi
+Verileriniz **KVKK'nın 5. maddesi** kapsamında:
+- **Açık rıza:** Kayıt sırasında verilen onay
+- **Sözleşmenin ifası:** Hizmet sunumu
+- **Meşru menfaat:** Platform güvenliği
 
-Verileriniz KVKK'nın 5. maddesi kapsamında aşağıdaki hukuki sebeplere dayanılarak işlenmektedir:
+hukuki sebeplerine dayanılarak işlenmektedir.
 
-- **Açık rıza:** Kayıt sırasında verdiğiniz onay
-- **Sözleşmenin ifası:** Hizmetin sunulabilmesi için gerekli işlemler
-- **Meşru menfaat:** Platform güvenliğinin sağlanması
-
----
-
-## Kişisel Verilerin Aktarılması
-
-Kişisel verileriniz aşağıdaki taraflarla paylaşılabilir:
-
-| Alıcı | Amaç | Konum |
-|-------|------|-------|
-| **Apple Inc.** | iCloud/CloudKit veri depolama hizmetleri | ABD/AB |
-| **Yetkili Kamu Kurumları** | Yasal zorunluluk halinde | Türkiye |
-
----
-
-## Veri Saklama Süresi
-
-| Veri Türü | Saklama Süresi |
-|-----------|----------------|
-| Hesap bilgileri | Üyelik süresince |
-| Kullanıcı içerikleri | Hesap silinene kadar |
-| Silinen hesaplar | 30 gün içinde kalıcı silme |
-| Yasal kayıtlar | İlgili mevzuatın öngördüğü süre |
-
----
-
-## KVKK Kapsamındaki Haklarınız
-
-KVKK'nın 11. maddesi kapsamında aşağıdaki haklara sahipsiniz:
-
-| Hak | Açıklama |
-|-----|----------|
-| **Öğrenme** | Kişisel veri işlenip işlenmediğini öğrenme |
-| **Bilgi Talep Etme** | İşlenmişse buna ilişkin bilgi talep etme |
-| **Amaç Öğrenme** | İşlenme amacını ve amacına uygun kullanılıp kullanılmadığını öğrenme |
-| **Üçüncü Kişileri Bilme** | Yurt içinde veya yurt dışında aktarıldığı üçüncü kişileri bilme |
-| **Düzeltme** | Eksik veya yanlış işlenmişse düzeltilmesini isteme |
-| **Silme** | Silinmesini veya yok edilmesini isteme |
-| **Bildirim** | Düzeltme/silme işlemlerinin aktarılan kişilere bildirilmesini isteme |
-| **İtiraz** | İşlenen verilerin analiz edilmesiyle aleyhinize bir sonucun ortaya çıkmasına itiraz etme |
-| **Tazminat** | Kanuna aykırı işleme sebebiyle zarara uğramanız halinde zararın giderilmesini talep etme |
-
----
-
-## Başvuru Yöntemi
-
-Haklarınızı kullanmak için:
+### Başvuru Yöntemi
 
 **E-posta:** kdrtpc@icloud.com
 
-Başvurunuzda:
+Başvurunuzda belirtmeniz gerekenler:
 - Adınız, soyadınız
 - Başvuru konusu
 - Talep detayları
 
-bilgilerini belirtmeniz gerekmektedir. Başvurularınız en geç **30 gün** içinde sonuçlandırılacaktır.
+**Değerlendirme Süresi:** En geç 30 gün içinde
 
 ---
 
-**Son Güncelleme:** 26 Kasım 2025
+## 🙏 Teşekkür
 
-*Bu belge, App Store gizlilik gereksinimleri ve 6698 sayılı Kişisel Verilerin Korunması Kanunu uyarınca hazırlanmıştır.*
+Gizliliğinize gösterdiğimiz özen için anlayışınıza teşekkür ederiz. Güvenliğiniz bizim önceliğimizdir! 🔒💙
+
+---
+
+**Son Güncelleme:** 3 Aralık 2025
+**Versiyon:** 2.0
+
+*Bu belge, Apple App Store gereksinimleri, KVKK ve GDPR uyarınca hazırlanmıştır.*
