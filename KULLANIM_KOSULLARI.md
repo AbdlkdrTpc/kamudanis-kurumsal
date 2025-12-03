@@ -1,392 +1,667 @@
-# KamuDanış Kullanım Koşulları
+# 📜 KamuDanış Kullanım Koşulları
 
-**Son Güncelleme:** 26 Kasım 2025
+> **Hoş geldiniz!** Bu koşullar, KamuDanış'ı kullanırken uymanız gereken kuralları açıklar. Lütfen dikkatle okuyun.
+
+**Son Güncelleme:** 3 Aralık 2025
+**Versiyon:** 2.0
 
 ---
 
-## 1. Genel Hükümler
+## 📋 Hızlı Özet
 
-### 1.1 Kabul
+| Konu | Özet |
+|------|------|
+| 🎯 **Amaç** | Kamu personeli için soru-cevap platformu |
+| ✅ **Uygun** | Mesleki bilgi paylaşımı, deneyim aktarımı |
+| ❌ **Yasak** | Gizli bilgi, hakaret, spam, ticari kullanım |
+| ⚖️ **Sorumluluk** | İçerikler kullanıcılara aittir, yasal danışmanlık değildir |
+| 🔒 **Güvenlik** | Admin onayı, moderasyon, kara liste sistemi |
 
-KamuDanış uygulamasını ("Uygulama") indirerek, yükleyerek veya kullanarak bu Kullanım Koşulları'nı ("Koşullar") kabul etmiş sayılırsınız. Bu koşulları kabul etmiyorsanız, uygulamayı kullanmayınız.
+---
 
-### 1.2 Tanımlar
+## 1️⃣ Genel Hükümler
 
-| Terim | Açıklama |
-|-------|----------|
-| **Uygulama** | KamuDanış mobil uygulaması |
-| **Geliştirici** | Abdulkadir TOPCU |
-| **Kullanıcı** | Uygulamayı kullanan gerçek kişi |
-| **İçerik** | Kullanıcılar tarafından oluşturulan sorular, cevaplar ve beğeniler |
-| **Hizmet** | Uygulama aracılığıyla sunulan soru-cevap platformu |
-| **Admin** | Uygulama yöneticisi yetkilerine sahip kullanıcı |
+### 🤝 Kabul
 
-### 1.3 Uygulama Sahibi
+KamuDanış uygulamasını ("Uygulama") indirerek, yükleyerek veya kullanarak bu **Kullanım Koşulları**'nı kabul etmiş sayılırsınız.
+
+⚠️ **Önemli:** Bu koşulları kabul etmiyorsanız, uygulamayı **kullanmayınız**.
+
+### 📖 Tanımlar
+
+<table>
+<thead>
+<tr>
+<th>Terim</th>
+<th>Açıklama</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Uygulama</strong></td>
+<td>KamuDanış mobil uygulaması (iOS)</td>
+</tr>
+<tr>
+<td><strong>Geliştirici</strong></td>
+<td>Abdulkadir TOPCU</td>
+</tr>
+<tr>
+<td><strong>Kullanıcı</strong></td>
+<td>Uygulamayı kullanan gerçek kişi</td>
+</tr>
+<tr>
+<td><strong>İçerik</strong></td>
+<td>Sorular, cevaplar, beğeniler</td>
+</tr>
+<tr>
+<td><strong>Hizmet</strong></td>
+<td>Soru-cevap platformu hizmeti</td>
+</tr>
+<tr>
+<td><strong>Admin</strong></td>
+<td>Yönetici yetkisine sahip kullanıcı</td>
+</tr>
+<tr>
+<td><strong>Karma</strong></td>
+<td>Kullanıcı katkı puanlama sistemi</td>
+</tr>
+</tbody>
+</table>
+
+### 👤 Uygulama Sahibi
 
 | | |
 |---|---|
 | **Ad Soyad** | Abdulkadir TOPCU |
-| **Konum** | Pendik/İstanbul, Türkiye |
-| **E-posta** | kdrtpc@icloud.com |
-| **Web** | https://AbdlkdrTpc.github.io/kamudanis-kurumsal/ |
+| 📍 **Konum** | Pendik/İstanbul, Türkiye |
+| 📧 **E-posta** | kdrtpc@icloud.com |
+| 🌐 **Web** | [kamudanis.com](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
 
 ---
 
-## 2. Hizmet Açıklaması
+## 2️⃣ Hizmet Açıklaması
 
-KamuDanış, kamu ihale mevzuatı alanında çalışan profesyoneller için geliştirilmiş bir soru-cevap platformudur.
+### 🎯 Uygulama Amacı
 
-### 2.1 Hizmet Kapsamı
+KamuDanış, **kamu ihale mevzuatı** alanında çalışan profesyonellerin:
+- ❓ Soru sorabildiği
+- 💬 Cevap verebildiği
+- 💡 Bilgi ve deneyim paylaşabildiği
+- 🤝 Meslektaşlarıyla etkileşime geçebildiği
 
-- ✅ Kamu ihalesi konularında soru sorma ve cevaplama
-- ✅ Kullanıcılar arası bilgi ve deneyim paylaşımı
-- ✅ Mesleki görüş alışverişi
-- ✅ İhale türü ve usulüne göre kategorize edilmiş içerikler
+güvenli bir platformdur.
+
+### ✅ Hizmet Kapsamı
+
+- ✅ Kamu ihalesi konularında soru-cevap
+- ✅ İhale türü ve usulüne göre kategorize içerik
+- ✅ Kullanıcılar arası bilgi paylaşımı
 - ✅ Karma puanlama ve seviye sistemi
 - ✅ Anonim soru sorma imkanı
+- ✅ Beğeni ve etkileşim özellikleri
+- ✅ Favori sorular
+- ✅ Arama ve filtreleme
 
-### 2.2 Önemli Sorumluluk Reddi
+### ⚠️ ÇOK ÖNEMLİ: Sorumluluk Reddi
 
-> ⚠️ **DİKKAT:** Bu uygulama üzerinden paylaşılan bilgiler:
-> - **Profesyonel hukuki danışmanlık yerine GEÇMEZ**
-> - **Resmi makamların görüşlerini TEMSİL ETMEZ**
-> - **Kullanıcıların kişisel görüş ve deneyimlerini yansıtır**
-> - **Bağlayıcı nitelikte DEĞİLDİR**
+```
+⛔ DİKKAT ⛔
+
+Bu uygulama üzerinden paylaşılan bilgiler:
+
+❌ Profesyonel hukuki danışmanlık yerine GEÇMEZ
+❌ Resmi makamların görüşlerini TEMSİL ETMEZ
+❌ Bağlayıcı nitelikte DEĞİLDİR
+✅ Kullanıcıların kişisel görüş ve deneyimlerini yansıtır
+```
 
 **Kritik kararlar için mutlaka:**
-- Kamu İhale Kurumu (KİK) kararlarını inceleyin
-- İlgili mevzuat metinlerine başvurun
-- Yetkili profesyonel danışmanlardan destek alın
+1. 📖 Kamu İhale Kurumu (KİK) kararlarını inceleyin
+2. ⚖️ İlgili mevzuat metinlerine başvurun
+3. 👨‍⚖️ Yetkili profesyonel danışmanlardan destek alın
 
 ---
 
-## 3. Üyelik Koşulları
+## 3️⃣ Üyelik Koşulları
 
-### 3.1 Kayıt Şartları
+### 📝 Kayıt Şartları
 
 Uygulamaya kayıt olmak için:
 
-| Şart | Açıklama |
-|------|----------|
-| **Yaş** | 18 yaşından büyük olmak |
-| **Kurum** | Kamu kurumunda aktif olarak çalışıyor olmak |
-| **E-posta** | Geçerli ve erişilebilir e-posta adresi |
-| **Kimlik** | Gerçek ve doğru kişisel bilgiler sağlamak |
-| **Apple ID** | Geçerli bir Apple hesabına sahip olmak |
+| Şart | Açıklama | Zorunlu |
+|------|----------|---------|
+| 🎂 **Yaş** | 18 yaşından büyük olmak | ✅ Evet |
+| 🏛️ **Kurum** | Kamu kurumunda aktif olarak çalışmak | ✅ Evet |
+| 📧 **E-posta** | Geçerli ve erişilebilir e-posta | ✅ Evet |
+| 👤 **Kimlik** | Gerçek ve doğru kişisel bilgiler | ✅ Evet |
+| 🍎 **Apple ID** | Geçerli Apple hesabı | ✅ Evet |
 
-### 3.2 Hesap Oluşturma
+### 🔑 Hesap Oluşturma
 
-- Kayıt yalnızca "Apple ile Giriş Yap" özelliği ile yapılabilir
-- Her kullanıcı yalnızca bir hesap açabilir
-- Sahte veya yanıltıcı bilgilerle hesap açmak yasaktır
+- Kayıt **sadece "Apple ile Giriş Yap"** ile yapılabilir
+- Her kullanıcı **yalnızca bir hesap** açabilir
+- Sahte veya yanıltıcı bilgilerle hesap açmak **yasaktır**
+- Başkasının kimliğini kullanmak **yasaktır**
 
-### 3.3 Hesap Onayı
+### ✅ Hesap Onayı
 
-- ✅ Tüm yeni üyelikler **admin onayına** tabidir
-- ⏱️ Onay süreci **1-3 iş günü** sürebilir
-- 📧 Onaylanmayan başvurular hakkında e-posta ile bilgilendirme yapılır
-- ❌ Onaylanmayan kullanıcılar uygulama özelliklerini kullanamaz
+```
+1️⃣ Kayıt olun
+   ↓
+2️⃣ Admin incelemesi (1-3 iş günü)
+   ↓
+3️⃣ Onay/Red bildirimi (e-posta)
+   ↓
+4️⃣ Onay aldıysanız → Uygulamayı kullanabilirsiniz
+   Red aldıysanız → Sebep e-postayla bildirilir
+```
 
-### 3.4 Hesap Güvenliği
+⏱️ **Onay Süreci:** 1-3 iş günü
+📧 **Bildirim:** E-posta ile haberdar edilirsiniz
+❌ **Onaylanmadan:** Uygulama özelliklerini kullanamazsınız
 
-Kullanıcı:
-- Apple ID bilgilerinin güvenliğinden sorumludur
-- Hesabındaki tüm aktivitelerden sorumludur
-- Şüpheli aktiviteleri derhal kdrtpc@icloud.com adresine bildirmelidir
+### 🔒 Hesap Güvenliği
+
+Kullanıcı olarak sorumlusunuz:
+- ✅ Apple ID bilgilerinizin güvenliğinden
+- ✅ Hesabınızdaki tüm aktivitelerden
+- ✅ Şüpheli durumları bildirmekten
+
+⚠️ Hesabınızda yetkisiz erişim fark ederseniz **derhal kdrtpc@icloud.com** adresine bildirin.
 
 ---
 
-## 4. Kullanıcı Yükümlülükleri
+## 4️⃣ Kullanıcı Yükümlülükleri
 
-### 4.1 Kabul Edilebilir Kullanım
+### ✅ Kabul Edilebilir Kullanım
 
 Kullanıcılar:
-- Saygılı ve profesyonel bir dil kullanmalıdır
-- Doğru ve güncel bilgiler paylaşmalıdır
-- Diğer kullanıcıların haklarına saygı göstermelidir
-- Platform kurallarına uymalıdır
-- Mevzuat değişikliklerinde eski bilgileri güncellemelidir
+- 🤝 Saygılı ve profesyonel bir dil kullanmalıdır
+- ✅ Doğru ve güncel bilgiler paylaşmalıdır
+- 👥 Diğer kullanıcıların haklarına saygı göstermelidir
+- 📜 Platform kurallarına uymalıdır
+- 🔄 Mevzuat değişikliklerinde eski bilgileri güncellemelidir
 
-### 4.2 Kesinlikle Yasaklanan Davranışlar
+### ❌ KESİNLİKLE Yasaklanan Davranışlar
 
-Aşağıdaki davranışlar **kesinlikle yasaktır** ve hesap kapatma ile sonuçlanabilir:
+<table>
+<thead>
+<tr>
+<th>Kategori</th>
+<th>Yasaklanan Davranış</th>
+<th>Yaptırım</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>🔒 <strong>Gizlilik İhlali</strong></td>
+<td>İhale süreçlerine ilişkin gizli bilgilerin paylaşılması</td>
+<td>Kalıcı engel</td>
+</tr>
+<tr>
+<td>😡 <strong>Hakaret/Küfür</strong></td>
+<td>Aşağılayıcı, küçük düşürücü veya tehdit içeren ifadeler</td>
+<td>7-30 gün engel</td>
+</tr>
+<tr>
+<td>📣 <strong>Spam</strong></td>
+<td>Reklam, tanıtım, aynı içeriği tekrarlama</td>
+<td>7 gün engel</td>
+</tr>
+<tr>
+<td>🎭 <strong>Kimlik Taklidi</strong></td>
+<td>Başka kullanıcı veya kurumların kimliğini taklit etme</td>
+<td>Kalıcı engel</td>
+</tr>
+<tr>
+<td>🤥 <strong>Yanıltıcı Bilgi</strong></td>
+<td>Kasıtlı olarak yanlış bilgi yayma</td>
+<td>30 gün engel</td>
+</tr>
+<tr>
+<td>💰 <strong>Ticari Kullanım</strong></td>
+<td>Platform üzerinden ticari faaliyet yürütme</td>
+<td>Kalıcı engel</td>
+</tr>
+<tr>
+<td>🔓 <strong>Güvenlik Tehdidi</strong></td>
+<td>Platform güvenliğini tehdit eden eylemler</td>
+<td>Kalıcı engel</td>
+</tr>
+<tr>
+<td>⚖️ <strong>Yasadışı İçerik</strong></td>
+<td>Türkiye Cumhuriyeti yasalarına aykırı içerik</td>
+<td>Kalıcı engel + yasal işlem</td>
+</tr>
+<tr>
+<td>🎲 <strong>Manipülasyon</strong></td>
+<td>Karma veya oylama sistemini manipüle etme</td>
+<td>Kalıcı engel</td>
+</tr>
+</tbody>
+</table>
 
-| Kategori | Yasaklanan Davranış |
-|----------|---------------------|
-| **Gizlilik İhlali** | İhale süreçlerine ilişkin gizli bilgilerin paylaşılması |
-| **Kişisel Saldırı** | Hakaret, küfür, aşağılayıcı veya tehdit içeren ifadeler |
-| **Spam** | Reklam, tanıtım veya tekrarlayan içerik paylaşımı |
-| **Yanıltıcı Bilgi** | Kasıtlı olarak yanlış veya yanıltıcı bilgi yayma |
-| **Kimlik Taklidi** | Başka kullanıcıların veya kurumların kimliğini taklit etme |
-| **Ticari Kullanım** | Platform üzerinden ticari faaliyet yürütme |
-| **Güvenlik Tehdidi** | Platform güvenliğini tehdit eden eylemler |
-| **Yasadışı İçerik** | Türkiye Cumhuriyeti yasalarına aykırı içerik |
-| **Manipülasyon** | Karma sistemi veya oylama manipülasyonu |
-
-### 4.3 İçerik Standartları
+### 📋 İçerik Standartları
 
 Paylaşılan tüm içerikler:
 - 📜 Türkiye Cumhuriyeti yasalarına uygun olmalıdır
 - ©️ Fikri mülkiyet haklarına saygılı olmalıdır
 - 🔒 Kişisel verileri ihlal etmemelidir
 - ⚖️ 4734 sayılı Kamu İhale Kanunu etik kurallarına uygun olmalıdır
-- 📋 Gizlilik gerektiren ihale bilgilerini içermemelidir
+- 🚫 Gizlilik gerektiren ihale bilgilerini içermemelidir
 
 ---
 
-## 5. Fikri Mülkiyet Hakları
+## 5️⃣ Fikri Mülkiyet Hakları
 
-### 5.1 Uygulama Hakları
+### 📱 Uygulama Hakları
 
-KamuDanış uygulamasına ait tüm haklar Abdulkadir TOPCU'ya aittir:
+KamuDanış'a ait **tüm haklar Abdulkadir TOPCU'ya** aittir:
+- 🎨 Logo, marka ve görsel kimlik
+- 🖥️ Uygulama tasarımı ve kullanıcı arayüzü
+- 💻 Kaynak kod ve yazılım mimarisi
+- 📊 İçerik düzeni ve veri yapısı
+- ✨ Tüm özellikler ve fonksiyonlar
 
-- Logo, marka ve görsel kimlik
-- Uygulama tasarımı ve kullanıcı arayüzü
-- Kaynak kod ve yazılım mimarisi
-- İçerik düzeni ve veri yapısı
-
-### 5.2 Kullanıcı İçerikleri
+### ✍️ Kullanıcı İçerikleri
 
 Kullanıcılar:
-- Paylaştıkları içeriklerin fikri mülkiyet haklarını korur
-- İçeriklerinin platformda görüntülenmesine ve aranmasına izin verir
-- İçeriklerinin telif hakları ihlali içermemesinden sorumludur
-- Üçüncü tarafların haklarını ihlal eden içerik paylaşamaz
+- ✅ Paylaştıkları içeriklerin fikri mülkiyet haklarını **korur**
+- ✅ İçeriklerinin platformda görüntülenmesine ve aranmasına **izin verir**
+- ❌ Telif hakları ihlali içeren içerik **paylaşamaz**
+- ❌ Üçüncü tarafların haklarını ihlal eden içerik **paylaşamaz**
 
-### 5.3 Lisans
+### 📜 Lisans
 
 Kullanıcılar, paylaştıkları içerikler için platforma:
-- Dünya çapında, telifsiz, alt lisanslanabilir lisans verir
-- Bu lisans hesap silinse bile platformdaki mevcut içerikler için geçerli kalır
+- 🌍 Dünya çapında
+- 💵 Telifsiz (royalty-free)
+- 🔄 Alt lisanslanabilir
+- ⏳ Süresiz
+
+lisans verir. Bu lisans, hesap silinse bile **mevcut içerikler için geçerli kalır**.
 
 ---
 
-## 6. Karma Sistemi ve Limitler
+## 6️⃣ Karma Sistemi ve Limitler
 
-### 6.1 Karma Puanları
+### ⭐ Karma Puanları
 
-| Aksiyon | Puan |
-|---------|------|
-| Soru sorma | +3 |
-| Cevap yazma | +2 |
-| Beğeni alma | +1 |
-| En iyi cevap seçilme | +10 |
+<table>
+<thead>
+<tr>
+<th>Aksiyon</th>
+<th>Puan</th>
+<th>Açıklama</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>❓ <strong>Soru sorma</strong></td>
+<td>+3</td>
+<td>Onaylanan sorular için</td>
+</tr>
+<tr>
+<td>💬 <strong>Cevap yazma</strong></td>
+<td>+2</td>
+<td>Her cevap için</td>
+</tr>
+<tr>
+<td>👍 <strong>Beğeni alma</strong></td>
+<td>+1</td>
+<td>Cevapl
 
-### 6.2 Seviye Sistemi
+arınıza gelen beğeniler</td>
+</tr>
+<tr>
+<td>🏆 <strong>En iyi cevap</strong></td>
+<td>+10</td>
+<td>Admin tarafından seçilirse</td>
+</tr>
+</tbody>
+</table>
 
-| Seviye | Puan Aralığı |
-|--------|--------------|
-| 🌱 Çaylak | 0-50 |
-| 🌿 Başlangıç | 51-150 |
-| 🌳 Aktif Üye | 151-300 |
-| ⭐ Deneyimli | 301-500 |
-| 🏆 Uzman | 501-1000 |
-| 💎 Usta | 1001-2000 |
-| 👑 Efsane | 2001+ |
+### 🎖️ Seviye Sistemi
 
-### 6.3 Günlük Limitler
+<table>
+<thead>
+<tr>
+<th>Seviye</th>
+<th>Puan</th>
+<th>Emoji</th>
+<th>Özellik</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>Çaylak</strong></td>
+<td>0-50</td>
+<td>🌱</td>
+<td>Temel özellikler</td>
+</tr>
+<tr>
+<td><strong>Başlangıç</strong></td>
+<td>51-150</td>
+<td>🌿</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Aktif Üye</strong></td>
+<td>151-300</td>
+<td>🌳</td>
+<td>-</td>
+</tr>
+<tr>
+<td><strong>Deneyimli</strong></td>
+<td>301-500</td>
+<td>⭐</td>
+<td>Artan limitler</td>
+</tr>
+<tr>
+<td><strong>Uzman</strong></td>
+<td>501-1000</td>
+<td>🏆</td>
+<td>Özel rozetler</td>
+</tr>
+<tr>
+<td><strong>Usta</strong></td>
+<td>1001-2000</td>
+<td>💎</td>
+<td>Üst limitler</td>
+</tr>
+<tr>
+<td><strong>Efsane</strong></td>
+<td>2001+</td>
+<td>👑</td>
+<td>Maksimum limitler</td>
+</tr>
+</tbody>
+</table>
 
-Platform istismarını önlemek için günlük limitler uygulanır:
+### 🚦 Günlük Limitler
 
-| İşlem | Günlük Limit |
-|-------|--------------|
-| Soru sorma | 3 |
-| Cevap yazma | 10 |
-| Beğeni verme | 30 |
+Platform istismarını önlemek için günlük limitler:
 
-*Limitler seviyeye göre değişebilir.*
+| İşlem | Günlük Limit | Amaç |
+|-------|--------------|------|
+| ❓ Soru sorma | 3 | Spam önleme |
+| 💬 Cevap yazma | 10 | Kalite kontrolü |
+| 👍 Beğeni verme | 30 | Manipülasyon önleme |
 
-### 6.4 Otomatik Kara Liste
+⚡ *Yüksek karma seviyesinde limitler artabilir*
 
-> ⚠️ **Uyarı:** Son 1 saat içinde 3 veya daha fazla sorusu reddedilen kullanıcılar **otomatik olarak 24 saat geçici engellenir**.
+### 🚫 Otomatik Kara Liste
+
+```
+⚠️ DİKKAT: Otomatik Engelleme Sistemi
+
+📌 Kural: Son 1 saat içinde 3 veya daha fazla sorusu reddedilirse
+⏱️ Süre: 24 saat geçici engelleme
+🔄 Tekrar: Tekrarlanırsa süre uzar
+```
 
 ---
 
-## 7. Moderasyon ve Yaptırımlar
+## 7️⃣ Moderasyon ve Yaptırımlar
 
-### 7.1 Admin Yetkileri
+### 👮 Admin Yetkileri
 
 Uygulama yöneticileri aşağıdaki işlemleri yapabilir:
 
-| Yetki | Açıklama |
-|-------|----------|
-| **İçerik Moderasyonu** | Soruları onaylama, düzenleme veya reddetme |
-| **Cevap Yönetimi** | Cevapları düzenleme veya kaldırma |
-| **En İyi Cevap** | En iyi cevabı belirleme |
-| **Uyarı** | Kullanıcıları uyarma |
-| **Geçici Engel** | Kullanıcıları geçici süreyle askıya alma |
-| **Kalıcı Engel** | Hesapları kalıcı olarak kapatma |
-| **Kara Liste** | Kural ihlali yapan kullanıcıları engelleme |
+<table>
+<thead>
+<tr>
+<th>Yetki</th>
+<th>Açıklama</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>✅ <strong>Onaylama</strong></td>
+<td>Üyelik başvurularını onaylama/reddetme</td>
+</tr>
+<tr>
+<td>📝 <strong>Moderasyon</strong></td>
+<td>Soruları onaylama, düzenleme veya reddetme</td>
+</tr>
+<tr>
+<td>🗑️ <strong>Silme</strong></td>
+<td>Uygunsuz içerikleri kaldırma</td>
+</tr>
+<tr>
+<td>🏆 <strong>En İyi Cevap</strong></td>
+<td>En iyi cevabı belirleme</td>
+</tr>
+<tr>
+<td>⚠️ <strong>Uyarı</strong></td>
+<td>Kullanıcıları uyarma</td>
+</tr>
+<tr>
+<td>⏸️ <strong>Geçici Engel</strong></td>
+<td>7/30 gün süreyle askıya alma</td>
+</tr>
+<tr>
+<td>🚫 <strong>Kalıcı Engel</strong></td>
+<td>Hesabı kalıcı olarak kapatma</td>
+</tr>
+<tr>
+<td>🔒 <strong>Kara Liste</strong></td>
+<td>Kural ihlali yapan kullanıcıları engelleme</td>
+</tr>
+</tbody>
+</table>
 
-### 7.2 Yaptırım Basamakları
+### ⚖️ Yaptırım Basamakları
 
-1. **1. İhlal:** Uyarı
-2. **2. İhlal:** 7 gün geçici engel
-3. **3. İhlal:** 30 gün geçici engel
-4. **4. İhlal:** Kalıcı hesap kapatma
+```
+1️⃣ 1. İhlal  → ⚠️ Uyarı
+     ↓
+2️⃣ 2. İhlal  → ⏸️ 7 gün geçici engel
+     ↓
+3️⃣ 3. İhlal  → ⏸️ 30 gün geçici engel
+     ↓
+4️⃣ 4. İhlal  → 🚫 Kalıcı hesap kapatma
+```
 
-*Ciddi ihlallerde doğrudan kalıcı engel uygulanabilir.*
+⚠️ **Ciddi ihlallerde** (gizli bilgi, hakaret, yasal ihlal) **doğrudan kalıcı engel** uygulanabilir.
 
-### 7.3 İtiraz Süreci
+### 📧 İtiraz Süreci
 
 Moderasyon kararlarına itiraz etmek için:
 
-| | |
-|---|---|
-| **E-posta** | kdrtpc@icloud.com |
-| **Konu** | "İtiraz - [Kullanıcı Adı]" |
-| **Süre** | İtirazlar 7 iş günü içinde değerlendirilir |
+| Adım | Bilgi |
+|------|-------|
+| 1️⃣ **E-posta Gönder** | kdrtpc@icloud.com |
+| 2️⃣ **Konu** | "İtiraz - [Kullanıcı Adı]" |
+| 3️⃣ **İçerik** | İtiraz nedeninizi detaylı açıklayın |
+| 4️⃣ **Değerlendirme** | 7 iş günü içinde yanıt |
 
 ---
 
-## 8. Hizmet Şartları
+## 8️⃣ Hizmet Şartları
 
-### 8.1 Hizmet Sürekliliği
+### 🔧 Hizmet Sürekliliği
 
-- Uygulama "olduğu gibi" sunulmaktadır
-- %100 kesintisiz hizmet garantisi verilmemektedir
-- Bakım ve güncelleme için hizmet kesilebilir
+- Uygulama **"olduğu gibi"** sunulmaktadır
+- %100 kesintisiz hizmet garantisi **verilmemektedir**
+- Bakım ve güncelleme için hizmet **kesilebilir**
+- Önceden bildirim **yapılmaya çalışılır**
 
-### 8.2 Değişiklik Hakkı
+### 🔄 Değişiklik Hakkı
 
 Geliştirici aşağıdaki değişiklikleri yapma hakkını saklı tutar:
-- Hizmet özelliklerini değiştirme
-- Yeni özellikler ekleme
-- Mevcut özellikleri kaldırma
-- Kullanım koşullarını güncelleme
+- ✏️ Hizmet özelliklerini değiştirme
+- ➕ Yeni özellikler ekleme
+- ➖ Mevcut özellikleri kaldırma
+- 📜 Kullanım koşullarını güncelleme
+- 💰 Ücretlendirme modeli değişiklikleri
 
-### 8.3 Hizmet Sonlandırma
+### 🛑 Hizmet Sonlandırma
 
-Uygulama, önceden bildirim yaparak hizmeti tamamen sonlandırabilir. Bu durumda:
-- Kullanıcılara makul süre öncesinde bilgi verilir
-- Veri indirme imkanı sağlanır (mümkünse)
+Uygulama, önceden bildirim yaparak hizmeti tamamen sonlandırabilir.
+
+**Bu durumda:**
+- 📣 Kullanıcılara makul süre öncesinde bilgi verilir
+- 💾 Veri indirme imkanı sağlanır (mümkünse)
+- 🔒 Gizlilik politikası korunur
 
 ---
 
-## 9. Garanti ve Sorumluluk Sınırlaması
+## 9️⃣ Garanti ve Sorumluluk Sınırlaması
 
-### 9.1 Garanti Reddi
+### ❌ Garanti Reddi
 
 Aşağıdaki konularda **hiçbir garanti verilmemektedir:**
 
-- Hizmetin kesintisiz veya hatasız çalışması
-- Paylaşılan içeriklerin doğruluğu, eksiksizliği veya güncelliği
-- Belirli bir amaca uygunluk
-- Üçüncü taraf hizmetleriyle uyumluluk
+- ⚙️ Hizmetin kesintisiz veya hatasız çalışması
+- ✅ Paylaşılan içeriklerin doğruluğu, eksiksizliği veya güncelliği
+- 🎯 Belirli bir amaca uygunluk
+- 🔗 Üçüncü taraf hizmetleriyle uyumluluk
+- 💸 Ekonomik sonuçların doğruluğu
 
-### 9.2 Sorumluluk Sınırı
+### ⚠️ Sorumluluk Sınırı
 
 Geliştirici, uygulama kullanımından doğabilecek:
-- Doğrudan veya dolaylı zararlardan
-- Kar kaybı veya veri kaybından
-- Kullanıcı içeriklerinden kaynaklanan sorunlardan
-- Üçüncü taraf eylemlerinden
+
+```
+❌ Doğrudan veya dolaylı zararlardan
+❌ Kar kaybı veya veri kaybından
+❌ Kullanıcı içeriklerinden kaynaklanan sorunlardan
+❌ Üçüncü taraf eylemlerinden
+❌ Hatalı kararlardan (içerikler danışmanlık değildir)
+❌ İhale süreçlerinden kaynaklanan sorunlardan
+```
 
 **sorumlu tutulamaz.**
 
-### 9.3 Tazminat
+### 💰 Tazminat
 
-Kullanıcı, bu koşulları ihlal etmesi nedeniyle Geliştirici'nin uğrayabileceği tüm zararları tazmin etmeyi kabul eder.
-
----
-
-## 10. Hesap Sonlandırma
-
-### 10.1 Kullanıcı Tarafından
-
-Kullanıcılar istedikleri zaman:
-- Uygulama içinden hesaplarını silebilir
-- E-posta ile hesap silme talebinde bulunabilir
-
-Hesap silme işlemi:
-- 30 gün içinde tamamlanır
-- Geri alınamaz
-- Tüm kişisel veriler silinir
-
-### 10.2 Geliştirici Tarafından
-
-Aşağıdaki durumlarda hesap askıya alınabilir veya kapatılabilir:
-- Kullanım koşullarının ihlali
-- Yasadışı faaliyet şüphesi
-- Güvenlik tehdidi oluşturma
-- Uzun süreli inaktiflik (1 yıl+)
+Kullanıcı, bu koşulları ihlal etmesi nedeniyle Geliştirici'nin uğrayabileceği tüm zararları **tazmin etmeyi kabul eder**.
 
 ---
 
-## 11. Gizlilik
+## 🔟 Hesap Sonlandırma
 
-Kişisel verilerinizin işlenmesi hakkında detaylı bilgi için **Gizlilik Politikası** belgemizi inceleyiniz:
+### 👤 Kullanıcı Tarafından
 
-🔗 https://AbdlkdrTpc.github.io/kamudanis-kurumsal/GIZLILIK_POLITIKASI.html
+**Uygulama İçi:**
+1. Profil sekmesine gidin
+2. Ayarlar > Hesabımı Sil
+3. Onaylayın
+
+**E-posta ile:**
+- kdrtpc@icloud.com adresine talep gönderin
+
+**Sonuç:**
+- ⏱️ 30 gün içinde tamamlanır
+- 🚫 Geri alınamaz
+- 🗑️ Tüm kişisel veriler silinir
+
+### 🛡️ Geliştirici Tarafından
+
+Hesap aşağıdaki durumlarda askıya alınabilir veya kapatılabilir:
+
+| Durum | Süre |
+|-------|------|
+| ⚖️ Kullanım koşulları ihlali | Değişken |
+| 🚨 Yasadışı faaliyet şüphesi | Kalıcı |
+| 🔓 Güvenlik tehdidi oluşturma | Kalıcı |
+| 💤 Uzun süreli inaktiflik | 1 yıl+ → bildirim sonrası |
 
 ---
 
-## 12. Uyuşmazlık Çözümü
+## 1️⃣1️⃣ Gizlilik
 
-### 12.1 Uygulanacak Hukuk
+Kişisel verilerinizin işlenmesi hakkında detaylı bilgi için:
+
+🔗 **[Gizlilik Politikası](https://abdlkdrtpc.github.io/kamudanis-kurumsal/GIZLILIK_POLITIKASI.html)**
+
+---
+
+## 1️⃣2️⃣ Uyuşmazlık Çözümü
+
+### ⚖️ Uygulanacak Hukuk
 
 Bu Kullanım Koşulları, **Türkiye Cumhuriyeti hukukuna** tabidir.
 
-### 12.2 Yetkili Mahkeme
+### 🏛️ Yetkili Mahkeme
 
 Bu koşullardan doğabilecek tüm uyuşmazlıklarda **İstanbul Mahkemeleri ve İcra Daireleri** yetkilidir.
 
-### 12.3 Alternatif Çözüm
+### 🤝 Alternatif Çözüm
 
-Uyuşmazlık durumunda öncelikle dostane çözüm aranacaktır. Taraflar, mahkemeye başvurmadan önce e-posta yoluyla çözüm aramayı kabul eder.
-
----
-
-## 13. Çeşitli Hükümler
-
-### 13.1 Bölünebilirlik
-
-Bu koşulların herhangi bir hükmünün geçersiz sayılması, diğer hükümlerin geçerliliğini etkilemez.
-
-### 13.2 Feragat
-
-Herhangi bir hakkın kullanılmaması, o haktan feragat edildiği anlamına gelmez.
-
-### 13.3 Bütünlük
-
-Bu Kullanım Koşulları ve Gizlilik Politikası, taraflar arasındaki anlaşmanın tamamını oluşturur.
+Uyuşmazlık durumunda öncelikle **dostane çözüm** aranacaktır.
+Mahkemeye başvurmadan önce **e-posta yoluyla çözüm** aramayı kabul edersiniz.
 
 ---
 
-## 14. İletişim
+## 1️⃣3️⃣ Çeşitli Hükümler
+
+### 📎 Bölünebilirlik
+
+Bu koşulların herhangi bir hükmünün geçersiz sayılması, **diğer hükümlerin geçerliliğini etkilemez**.
+
+### 🔄 Feragat
+
+Herhangi bir hakkın kullanılmaması, o **haktan feragat edildiği anlamına gelmez**.
+
+### 📋 Bütünlük
+
+Bu Kullanım Koşulları ve Gizlilik Politikası, taraflar arasındaki **anlaşmanın tamamını** oluşturur.
+
+---
+
+## 1️⃣4️⃣ İletişim
 
 Sorularınız, önerileriniz veya şikayetleriniz için:
 
 | | |
 |---|---|
-| **E-posta** | kdrtpc@icloud.com |
-| **Web** | https://AbdlkdrTpc.github.io/kamudanis-kurumsal/ |
-| **Yanıt Süresi** | En geç 7 iş günü içinde |
+| 📧 **E-posta** | kdrtpc@icloud.com |
+| 🌐 **Web** | [kamudanis.com](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
+| ⏱️ **Yanıt Süresi** | En geç 7 iş günü |
 
 ---
 
-## 15. Koşul Değişiklikleri
+## 1️⃣5️⃣ Koşul Değişiklikleri
 
-- Bu koşullar önceden haber vermeksizin değiştirilebilir
-- Değişiklikler uygulama içinde duyurulur
-- Önemli değişikliklerde bildirim gönderilir
-- Uygulamayı kullanmaya devam etmek, güncel koşulları kabul etmek anlamına gelir
+### 📣 Bildirim
+
+Bu koşullar önceden haber vermeksizin değiştirilebilir.
+
+**Değişiklik olduğunda:**
+1. 📱 Uygulama içinde duyurulur
+2. 📧 Önemli değişikliklerde e-posta gönderilir
+3. 🗓️ "Son Güncelleme" tarihi değiştirilir
+
+⚠️ Uygulamayı kullanmaya devam etmek, **güncel koşulları kabul etmek** anlamına gelir.
 
 ---
 
-## 16. Onay
+## 1️⃣6️⃣ Onay Beyanı
 
 Bu uygulamayı indirip kullanarak:
 
-- ✅ Bu Kullanım Koşulları'nı okuduğunuzu
-- ✅ Anladığınızı
-- ✅ Kabul ettiğinizi
-- ✅ Bağlayıcı olduğunu
+```
+✅ Bu Kullanım Koşulları'nı OKUDUĞUNUZU
+✅ İçeriğini ANLADIĞINIZI
+✅ Tüm koşulları KABUL ETTİĞİNİZİ
+✅ Bu koşulların sizin için BAĞLAYICI olduğunu
+```
 
 **beyan ve taahhüt etmiş olursunuz.**
 
 ---
 
-**Son Güncelleme:** 26 Kasım 2025
+## 🙏 Son Söz
+
+KamuDanış, kamu çalışanları için **birlikte öğrenme ve paylaşma** platformudur. Kurallar topluluk refahı içindir.
+
+**Keyifli kullanımlar dileriz!** 💙
+
+---
+
+**Son Güncelleme:** 3 Aralık 2025
+**Versiyon:** 2.0
 
 *Bu belge, Apple App Store gereksinimleri ve Türkiye Cumhuriyeti mevzuatı uyarınca hazırlanmıştır.*
