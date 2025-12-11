@@ -10,8 +10,8 @@
 
 1. **📝 Kayıt Olun**
    - Apple ile Giriş Yap özelliğini kullanın
-   - Profil bilgilerinizi eksiksiz doldurun
-   - Admin onayını bekleyin (1-3 iş günü)
+   - Profil bilgilerinizi doldurun
+   - Hesabınız anında aktif olur!
 
 2. **🔍 Keşfedin**
    - Ana sayfada soruları inceleyin
@@ -29,120 +29,106 @@
 
 ### 🔐 Hesap ve Giriş
 
-<details>
-<summary><strong>Nasıl üye olabilirim?</strong></summary>
+**Nasıl üye olabilirim?**
 
 - Uygulama sadece **Apple ile Giriş Yap** özelliğini destekliyor
-- Kayıt formunu eksiksiz doldurun
-- Kurumsal e-posta adresinizi kullanmanız önerilir
-- Admin onayı sonrası uygulamayı kullanabilirsiniz
+- Kayıt formunu doldurun (Görünecek isim, kurum bilgileri)
+- İsterseniz Apple Hide My Email özelliğini kullanabilirsiniz
+- Hesabınız anında aktif olur, onay beklemenize gerek yok
 
-</details>
+---
 
-<details>
-<summary><strong>Üyeliğim ne zaman onaylanır?</strong></summary>
+**Üyelik hemen aktif mi?**
 
-- Admin onayları genelde **1-3 iş günü** içinde tamamlanır
-- E-posta adresinize bilgilendirme gönderilir
-- Onay sonrası tüm özellikleri kullanabilirsiniz
+- Evet! Apple ile Giriş yaptıktan sonra hesabınız **otomatik olarak aktif** olur
+- Onay beklemenize gerek yoktur
+- Hemen soru sorabilir ve cevap yazabilirsiniz
 
-</details>
+---
 
-<details>
-<summary><strong>Şifremi nasıl değiştiririm?</strong></summary>
+**Şifremi nasıl değiştiririm?**
 
 KamuDanış, Apple ile Giriş Yap kullandığı için ayrı bir şifre tutmuyor. Apple ID şifrenizi Apple ayarlarından değiştirebilirsiniz.
 
-</details>
+---
 
-<details>
-<summary><strong>Hesabımı nasıl silebilirim?</strong></summary>
+**Hesabımı nasıl silebilirim?**
 
 **Uygulama içi:**
+
 1. Profilim sekmesine gidin
-2. Ayarlar'a tıklayın
+2. Gizlilik ve Güvenlik'e tıklayın
 3. "Hesabımı Sil" seçeneğini kullanın
 4. Onaylayın
 
 **E-posta ile:**
+
 - kdrtpc@icloud.com adresine "Hesap Silme Talebi" konulu e-posta gönderin
 - Verileriniz 30 gün içinde kalıcı olarak silinir
 
-⚠️ **Bu işlem geri alınamaz!**
-
-</details>
+> ⚠️ **Bu işlem geri alınamaz!**
 
 ---
 
 ### 💭 Soru ve Cevaplar
 
-<details>
-<summary><strong>Nasıl soru sorarım?</strong></summary>
+**Nasıl soru sorarım?**
 
-1. Ana sayfada "+" butonuna tıklayın
+1. Ana sayfada "Soru Sor" sekmesine gidin
 2. Soru başlığınızı yazın
-3. Detayları ekleyin
-4. İhale türü ve usulünü seçin
-5. İlgili etiketleri ekleyin
-6. İsterseniz "Anonim" seçeneğini işaretleyin
-7. Gönder'e basın
+3. İhale türü ve usulünü seçin
+4. İlgili etiketleri ekleyin
+5. İsterseniz "Anonim" seçeneğini işaretleyin
+6. Gönder'e basın
 
-✅ Admin onayından sonra sorunuz yayınlanır
+---
 
-</details>
+**Günlük limitler nedir?**
 
-<details>
-<summary><strong>Günde kaç soru sorabilirim?</strong></summary>
+Günlük soru, cevap ve beğeni limitiniz **seviyenize göre değişir**.
 
-**Günlük Limitler:**
-- Soru sorma: **3 soru/gün**
-- Cevap yazma: **10 cevap/gün**
-- Beğeni verme: **30 beğeni/gün**
+Karma puanınız arttıkça limitler de artar.
 
-*Yüksek karma seviyesine sahip kullanıcılar için limitler artabilir*
+📍 Detaylı bilgi için: **Profilim > Limitler ve Kurallar**
 
-</details>
+---
 
-<details>
-<summary><strong>Anonim soru nedir?</strong></summary>
+**Anonim soru nedir?**
 
 - Kimliğiniz gizlenir
 - "Anonim" olarak görünür
 - Kurum bilginiz paylaşılmaz
 - Sadece adminler gerçek kimliğinizi görebilir
 
-💡 **İpucu:** Hassas konularda anonim seçeneğini tercih edin
+> 💡 **İpucu:** Hassas konularda anonim seçeneğini tercih edin
 
-</details>
+---
 
-<details>
-<summary><strong>Sorumu kimler görebilir?</strong></summary>
+**Sorumu kimler görebilir?**
 
 - Onaylanmış tüm kullanıcılar
-- Pending (onay bekleyen) kullanıcılar sadece görebilir, cevap veremez
 - Anonim sorunuzda kimliğiniz gizlidir
-
-</details>
 
 ---
 
 ### ⭐ Karma Sistemi
 
-<details>
-<summary><strong>Karma puanı nedir?</strong></summary>
+**Karma puanı nedir?**
 
 Karma, platformdaki katkınızı ölçen puanlama sistemidir.
 
 **Puan Kazanma:**
-- ✍️ Soru sorma: **+3 puan**
-- 💬 Cevap yazma: **+2 puan**
-- 👍 Beğeni alma: **+1 puan**
-- 🏆 En iyi cevap: **+10 puan**
 
-</details>
+| Aksiyon | Puan |
+|---------|------|
+| ✍️ Soru sorma | +3 puan |
+| 💬 Cevap yazma | +2 puan |
+| 👍 Beğeni alma | +1 puan |
+| 🏆 En iyi cevap | +10 puan |
 
-<details>
-<summary><strong>Karma seviyeleri nedir?</strong></summary>
+---
+
+**Karma seviyeleri nedir?**
 
 | Seviye | Puan | Emoji |
 |--------|------|-------|
@@ -154,38 +140,35 @@ Karma, platformdaki katkınızı ölçen puanlama sistemidir.
 | Usta | 1001-2000 | 💎 |
 | Efsane | 2001+ | 👑 |
 
-</details>
+---
 
-<details>
-<summary><strong>Karma puanım neden düştü?</strong></summary>
+**Karma puanım neden düştü?**
 
 Karma puanınız aşağıdaki durumlarda azalabilir:
+
 - ❌ Reddedilen sorular
 - 🚫 Kaldırılan cevaplar
 - ⚠️ Uyarı alınan içerikler
 - 📉 Admin tarafından manuel düzeltmeler
 
-</details>
-
 ---
 
 ### 🛡️ Güvenlik ve Gizlilik
 
-<details>
-<summary><strong>Verilerim güvende mi?</strong></summary>
+**Verilerim güvende mi?**
 
 ✅ **Evet!** KamuDanış:
-- Apple iCloud altyapısı kullanır
-- Uçtan uca şifreleme sağlar
+
+- Apple iCloud (CloudKit) altyapısı kullanır
+- Apple standart şifreleme sağlar
 - Verilerinizi satmaz veya paylaşmaz
 - KVKK ve GDPR uyumludur
 
 Detaylı bilgi için: [Gizlilik Politikası](https://abdlkdrtpc.github.io/kamudanis-kurumsal/GIZLILIK_POLITIKASI.html)
 
-</details>
+---
 
-<details>
-<summary><strong>Bir soruyu nasıl şikayet ederim?</strong></summary>
+**Bir soruyu nasıl şikayet ederim?**
 
 1. İlgili soruya tıklayın
 2. Sağ üstteki ⋯ (üç nokta) menüsünü açın
@@ -195,10 +178,9 @@ Detaylı bilgi için: [Gizlilik Politikası](https://abdlkdrtpc.github.io/kamuda
 
 🔔 Adminler şikayetinizi inceleyecektir
 
-</details>
+---
 
-<details>
-<summary><strong>Neden engellenmiş olabilirim?</strong></summary>
+**Neden engellenmiş olabilirim?**
 
 Hesaplar aşağıdaki durumlarda engellenebilir:
 
@@ -212,16 +194,14 @@ Hesaplar aşağıdaki durumlarda engellenebilir:
 
 📧 İtiraz için: kdrtpc@icloud.com
 
-</details>
-
 ---
 
 ### 🎯 İpuçları ve En İyi Uygulamalar
 
-<details>
-<summary><strong>Kaliteli soru nasıl sorulur?</strong></summary>
+**Kaliteli soru nasıl sorulur?**
 
 ✅ **İyi Soru:**
+
 - Başlık açık ve net
 - Detaylı açıklama var
 - İhale türü/usulü belirtilmiş
@@ -229,18 +209,19 @@ Hesaplar aşağıdaki durumlarda engellenebilir:
 - Mevzuat maddeleri referans gösterilmiş
 
 ❌ **Kötü Soru:**
+
 - "İhale nasıl yapılır?" (çok genel)
 - "Acil yardım!" (detaysız)
 - Tüm büyük harfle yazılmış
 
-💡 **İpucu:** Sorunuzu sormadan önce arama yapın, benzer sorular sorulmuş olabilir!
+> 💡 **İpucu:** Sorunuzu sormadan önce arama yapın, benzer sorular sorulmuş olabilir!
 
-</details>
+---
 
-<details>
-<summary><strong>Etkili cevap nasıl verilir?</strong></summary>
+**Etkili cevap nasıl verilir?**
 
 ✅ **Kaliteli Cevap:**
+
 - Deneyime dayalı
 - Mevzuat referanslı
 - Örneklerle desteklenmiş
@@ -248,12 +229,11 @@ Hesaplar aşağıdaki durumlarda engellenebilir:
 - Güncel bilgi
 
 ❌ **Kaçınılması Gerekenler:**
+
 - Tahmine dayalı bilgi
 - Eski/geçersiz mevzuat
 - Kopyala-yapıştır cevaplar
 - Reklamlar
-
-</details>
 
 ---
 
@@ -311,7 +291,7 @@ KamuDanış'ı tercih ettiğiniz için teşekkür ederiz. Birlikte daha güçlü
 
 ---
 
-**Son Güncelleme:** 3 Aralık 2025
-**Versiyon:** 2.0
+**Son Güncelleme:** 11 Aralık 2025  
+**Versiyon:** 2.1
 
 *KamuDanış Destek Ekibi*
