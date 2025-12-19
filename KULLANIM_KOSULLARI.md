@@ -46,7 +46,7 @@ KamuDanış uygulamasını ("Uygulama") indirerek, yükleyerek veya kullanarak b
 | **Ad Soyad** | Abdulkadir TOPCU |
 | 📍 **Konum** | Pendik/İstanbul, Türkiye |
 | 📧 **E-posta** | kdrtpc@icloud.com |
-| 🌐 **Web** | [kamudanis.com](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
+| 🌐 **Web** | [kamudanis](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
 
 ---
 
@@ -426,7 +426,7 @@ Sorularınız, önerileriniz veya şikayetleriniz için:
 | Bilgi | Detay |
 |-------|-------|
 | 📧 **E-posta** | kdrtpc@icloud.com |
-| 🌐 **Web** | [kamudanis.com](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
+| 🌐 **Web** | [kamudanis](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
 | ⏱️ **Yanıt Süresi** | En geç 7 iş günü |
 
 ---
