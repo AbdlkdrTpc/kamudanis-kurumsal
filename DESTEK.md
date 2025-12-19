@@ -278,7 +278,7 @@ Yeni özellik öneriniz mi var?
 
 | Kaynak | Link |
 |--------|------|
-| 🌐 **Web Sitesi** | [kamudanis.com](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
+| 🌐 **Web Sitesi** | [kamudanis](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
 | 🔒 **Gizlilik Politikası** | [Oku](https://abdlkdrtpc.github.io/kamudanis-kurumsal/GIZLILIK_POLITIKASI.html) |
 | 📜 **Kullanım Koşulları** | [Oku](https://abdlkdrtpc.github.io/kamudanis-kurumsal/KULLANIM_KOSULLARI.html) |
 | 📊 **KİK Resmi** | [kik.gov.tr](https://www.kik.gov.tr) |
@@ -295,3 +295,4 @@ KamuDanış'ı tercih ettiğiniz için teşekkür ederiz. Birlikte daha güçlü
 **Versiyon:** 2.1
 
 *KamuDanış Destek Ekibi*
+
