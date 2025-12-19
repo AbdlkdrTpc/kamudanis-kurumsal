@@ -32,7 +32,7 @@ KamuDanış, **kamu ihale mevzuatı** alanında çalışan profesyonellerin bilg
 | **Ad Soyad** | Abdulkadir TOPCU |
 | **Konum** | Pendik/İstanbul, Türkiye |
 | **E-posta** | kdrtpc@icloud.com |
-| **Web** | [kamudanis.com](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
+| **Web** | [kamudanis](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
 
 ### ⚖️ Yasal Uyum
 
@@ -311,7 +311,7 @@ Gizlilik ile ilgili her türlü soru, talep veya şikayetiniz için:
 |-------|-------|
 | **Geliştirici** | Abdulkadir TOPCU |
 | 📧 **E-posta** | kdrtpc@icloud.com |
-| 🌐 **Web** | [kamudanis.com](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
+| 🌐 **Web** | [kamudanis](https://abdlkdrtpc.github.io/kamudanis-kurumsal/) |
 | 📍 **Konum** | Pendik/İstanbul, Türkiye |
 | ⏱️ **Yanıt Süresi** | En geç 3 iş günü |
 
